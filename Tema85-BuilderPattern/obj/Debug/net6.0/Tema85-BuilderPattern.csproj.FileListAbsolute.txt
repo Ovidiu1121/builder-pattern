@@ -1,0 +1,15 @@
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.csproj.AssemblyReference.cache
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.AssemblyInfoInputs.cache
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.AssemblyInfo.cs
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\Tema85-BuilderPattern.exe
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\Tema85-BuilderPattern.deps.json
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\Tema85-BuilderPattern.runtimeconfig.json
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\Tema85-BuilderPattern.dll
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\ref\Tema85-BuilderPattern.dll
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\bin\Debug\net6.0\Tema85-BuilderPattern.pdb
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.dll
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\ref\Tema85-BuilderPattern.dll
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.pdb
+C:\Data\charp\Teme\Tema85-BuilderPattern\Tema85-BuilderPattern\obj\Debug\net6.0\Tema85-BuilderPattern.genruntimeconfig.cache
